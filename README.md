@@ -1,5 +1,7 @@
 # POO Video Player Electron
 
+<img width="844" height="260" alt="Captura de tela 2025-08-28 220411" src="https://github.com/user-attachments/assets/a3220d0c-00ab-41f5-862a-43d110ada064" />
+
 **Aluno:** Márcio Soares
 **Professor:** Marcelo Ciacco de Almeida
 **Escola:** UNIFEOB
